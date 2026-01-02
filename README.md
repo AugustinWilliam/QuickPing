@@ -9,5 +9,4 @@ git clone https://github.com/AugustinWilliam/QuickPing.git
 cd QuickPing
 chmod +x install.sh
 ./install.sh
-chmod +x uninstall.sh
-./uninstall.sh
+quickping -h
